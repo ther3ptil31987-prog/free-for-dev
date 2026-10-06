@@ -314,6 +314,7 @@ This list results from Pull Requests, reviews, ideas, and work done by 1600+ peo
   * [News API](https://newsapi.org) - Search news on the web with code, and get JSON results. Developers get 100 queries free each day. Articles have a 24 hour delay.
   * [OCR.Space](https://ocr.space/) - An OCR API parses image and pdf files that return the text results in JSON format. 25,000 requests per month are free and a 1MB file size limit.
   * [OpenAPI3 Designer](https://openapidesigner.com/) - Visually create Open API 3 definitions for free.
+  * [Orshot](https://orshot.com) - Automate Videos, PDFs and Images from templates via API, n8n, Zapier and AI Agents. Design templates in a visual editor (or import from Canva or Figma), then automate bulk generation from your data source. The free plan includes 100 render credits every month.
   * [Parseur](https://parseur.com) - 20 free pages/month: Extract data from PDFs, emails. AI powered. Full API access.
   * [PDF-API.io](https://pdf-api.io) - PDF Automation API, visual template editor or HTML to PDF, dynamic data integration, and PDF rendering with an API. The free plan comes with one template, 100 PDFs/month.
   * [PDFBolt](https://pdfbolt.com) - Developer-focused PDF generation API designed with privacy in mind. It offers Stripe-inspired documentation and includes 500 free PDF conversions per month.
@@ -382,6 +383,7 @@ This list results from Pull Requests, reviews, ideas, and work done by 1600+ peo
   * [cDox](https://cdox.ca) - Private document editor hosted in Canada. Write, format, collaborate, and publish documents with clean public links. Data is never used for AI training. Free plan includes 50 MB storage, up to 3 public links, and export to PDF, Word, and Markdown.
   * [Chanty.com](https://chanty.com/) - Chanty is another alternative to Slack. It has a free forever plan for small teams (up to 10) with unlimited public and private conversations, searchable history, unlimited 1:1 audio calls, unlimited voice messages, ten integrations, and 20 GB storage per team.
   * [DevToolLab](https://devtoollab.com) - Online developer tools offering free access to all basic tools, with the ability to auto save one entry per tool, standard processing speed, and community support.
+  * [Dexio](https://dexio.wiki) - Shared wiki that all your AI agents read and write, so each one starts with the same context and you can see what they know. Unlimited pages and agents, free for one user.
   * [Discord](https://discord.com/) - Chat with public/private rooms. Markdown text, voice, video, and screen sharing capabilities. Free for unlimited users.
   * [Dubble](https://dubble.so/) - Free Step-by-Step Guide creator. Take screenshots, document processes and collaborate with your team. Also supports async screen recording.
   * [Duckly](https://duckly.com/) - Talk and collaborate in real time with your team. Pair programming with IDE, terminal sharing, voice, video, and screen sharing. Free for small teams.
@@ -998,6 +1000,7 @@ This list results from Pull Requests, reviews, ideas, and work done by 1600+ peo
   * [Formboost.app](https://formboost.app) - Developer-first form backend with simple HTTP endpoints, 500 free submissions/month, spam protection, email notifications, and built-in Slack, Discord & Telegram integrations. No backend required.
   * [Formcarry.com](https://formcarry.com) - HTTP POST Form endpoint, Free plan allows 100 monthly submissions.
   * [Formester.com](https://formester.com) - Share and embed unique-looking forms on your website-no limits on the number of forms created or features restricted by the plan. Get up to 100 submissions every month for free.
+  * [Formgong](https://formgong.com/) - Multilingual form backend for generated websites that need contact or other forms. Free tier: 300 submissions/month, email and Telegram notifications.
   * [Forminit](https://forminit.com/) - Headless form backend for developers. The free plan allows 100 form submissions per month including file uploads, server-side field validation, email notifications, spam protection and Zapier.
   * [FormKeep.com](https://www.formkeep.com/) - Unlimited forms with 50 monthly submissions, spam protection, email notification, and a drag-and-drop designer that can export HTML. Additional features include custom field rules, teams, and integrations to Google Sheets, Slack, ActiveCampaign, and Zapier.
   * [Form Plume](https://formplume.com) - Form Plume is a form backend for HTML and JavaScript forms. One endpoint gets you spam filtering, email notifications, file uploads, webhooks, and a clean inbox. Free for 500 submissions/mo.
@@ -1692,6 +1695,7 @@ Update Time, five active automations, webhooks.
   * [RedirHub](https://www.redirhub.com/) - API-first URL redirect infrastructure with custom nameservers, edge network, HTTPS, and proactive link monitoring. Free plan includes 2 hostnames, 100K requests per month, auto-SSL, path forwarding, and REST API access.
   * [ReqBin](https://reqbin.com/) - Post HTTP Requests Online. Popular Request Methods include GET, POST, PUT, DELETE, and HEAD. Supports Headers and Token Authentication. Includes a basic login system for saving your requests.
   * [Smartcar API](https://smartcar.com) - An API for cars to locate, get fuel tank, battery levels, odometer, unlock/lock doors, etc.
+  * [Splainly](https://splainly.app) - Create product explainer videos for sales and marketing needs. Videos are free to create and can be downloaded or remain hosted on Splainly. A small watermark will be applied and can be removed with a $5 purchase.
   * [Sunrise and Sunset](https://sunrisesunset.io/api/) - Get sunrise and sunset times for a given longitude and latitude.
   * [superfeedr.com](https://superfeedr.com/) - Real-time PubSubHubbub compliant feeds, export, analytics. Free with less customization
   * [SurveyMonkey.com](https://www.surveymonkey.com) - Create online surveys. Analyze the results online. The free plan allows only 10 questions and 100 responses per survey.
