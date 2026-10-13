@@ -257,7 +257,6 @@ This list results from Pull Requests, reviews, ideas, and work done by 1600+ peo
   * [Disease.sh](https://disease.sh/) - A free API providing accurate data for building the Covid-19 related useful Apps.
   * [Doczilla](https://www.doczilla.app/) - SaaS API empowering the generation of screenshots or PDFs directly from HTML/CSS/JS code. The free plan allows 250 documents month.
   * [Doppio](https://doppio.sh/) - Managed API to generate and privately store PDFs and Screenshots using top rendering technology. The free plan allows 400 PDFs and Screenshots per month.
-  * [DocPenny](https://docpenny.com) - HTML to PDF document generation with templates, webhook delivery, and credit-based pricing. Free plan with 50 monthly credits, no credit card required.
   * [Doqlo](https://doqlo.com/) - Bulk fill and mail merge PDF forms from CSV using the web app or Public API. The free plan includes 100 output PDFs/month.
   * [DynamicDocs](https://advicement.io) - Generate PDF documents with JSON to PDF API based on LaTeX templates. The free plan allows 50 API calls per month and access to a library of templates.
   * [Earnings Feed](https://earningsfeed.com/api) - Real-time SEC filings, insider trades, and institutional holdings API. Free tier includes 15 requests per minute.
@@ -712,6 +711,7 @@ This list results from Pull Requests, reviews, ideas, and work done by 1600+ peo
   * [httpSMS](https://httpsms.com) - Send and receive text messages using your Android phone as an SMS Gateway. Free to send and receive up to 200 messages per month.
   * [knock.app](https://knock.app) - Notifications infrastructure for developers. Send to multiple channels like in-app, email, SMS, Slack, and push with a single API call. The free plan includes 10,000 messages/mo.
   * [Novu.co](https://novu.co) - The open-source notification infrastructure for developers. Simple components and APIs for managing all communication channels in one place: Email, SMS, Direct, In-App and Push. The free plan includes 30,000 notifications/month with 90 days of retention.
+  * [ntail.io](https://ntail.io/) - Serverless Apache Kafka streaming service. The free plan includes 200 KiB/s in, 400 KiB/s out, 1-day retention and up to 10 topics. No card required and no time limit.
   * [Pingram.io](https://www.pingram.io/) - Communication infrastructure in 5 minutes. Free tier includes: 100 SMS and calls, 3000 Emails, Push, Slack, MS Teams, WhatsApp, and more.
   * [Pocket Alert](https://pocketalert.app) - Send push notifications to your iOS and Android devices. Effortlessly integrate via API or Webhooks and maintain full control over your alerts. Free plan: 50 messages per day to 1 device and 1 application.
   * [pubnub.com](https://www.pubnub.com/) - Swift, Kotlin, and React messaging at 1 million transactions each month. Transactions may contain multiple messages.
@@ -1660,6 +1660,7 @@ Update Time, five active automations, webhooks.
   * [Shotpipe](https://shotpipe.io) - Screenshot and Open Graph image API built for static sites. Free tier includes 100 renders/month, no card required. cached renders are free.
   * [SnapAPI](https://snapapi.pics) - Screenshot, video recording, PDF generation, and web data extraction API. Free plan includes 200 screenshots/month.
   * [thumbnail.ws](https://thumbnail.ws) - API for generating thumbnails of websites. Free 1,000 requests/month.
+  * [localscreenshot](https://localscreenshot.com) - Screenshot API that turns any public page into an image or a PDF, from 227 countries, with cookie banners, ads and chat widgets hidden. Also runs as an MCP server, so AI agents take screenshots on their own. Free plan includes 50 screenshots every month, no card required.
 
 **[⬆️ Back to Top](#table-of-contents)**
 
