@@ -76,17 +76,17 @@ This list results from Pull Requests, reviews, ideas, and work done by 1600+ peo
 ## Major Cloud Providers
 
   * [Google Cloud Platform](https://cloud.google.com)
-    * App Engine - 28 frontend instance hours per day, nine backend instance hours per day
-    * Cloud Firestore - 1GB storage, 50,000 reads, 20,000 writes, 20,000 deletes per day
-    * Compute Engine - 1 non-preemptible e2-micro, 30GB HDD, 5GB snapshot storage (restricted to certain regions), 1 GB network egress from North America to all region destinations (excluding China and Australia) per month
-    * Cloud Storage - 5GB, 1GB network egress
-    * Cloud Shell - Web-based Linux shell/primary IDE with 5GB of persistent storage. 60-hour limit per week
-    * Cloud Pub/Sub - 10GB of messages per month
-    * Cloud Functions - 2 million invocations per month (includes both background and HTTP invocations)
-    * Cloud Run - 2 million requests per month, 360,000 GB-seconds memory, 180,000 vCPU-seconds of compute time, 1 GB network egress from North America per month
-    * Google Kubernetes Engine - No cluster management fee for one zonal cluster. Each user node is charged at standard Compute Engine pricing
-    * BigQuery - 1 TB of querying per month, 10 GB of storage each month
-    * Cloud Build - 120 build-minutes per day
+    * [App Engine](https://cloud.google.com/appengine) - 28 frontend instance hours per day, nine backend instance hours per day
+    * [Cloud Firestore](https://cloud.google.com/firestore) - 1GB storage, 50,000 reads, 20,000 writes, 20,000 deletes per day
+    * [Compute Engine](https://cloud.google.com/compute) - 1 non-preemptible e2-micro, 30GB HDD, 5GB snapshot storage (restricted to certain regions), 1 GB network egress from North America to all region destinations (excluding China and Australia) per month
+    * [Cloud Storage](https://cloud.google.com/storage) - 5GB, 1GB network egress
+    * [Cloud Shell](https://cloud.google.com/shell) - Web-based Linux shell/primary IDE with 5GB of persistent storage. 60-hour limit per week
+    * [Cloud Pub/Sub](https://cloud.google.com/pubsub) - 10GB of messages per month
+    * [Cloud Functions](https://cloud.google.com/functions) - 2 million invocations per month (includes both background and HTTP invocations)
+    * [Cloud Run](https://cloud.google.com/run) - 2 million requests per month, 360,000 GB-seconds memory, 180,000 vCPU-seconds of compute time, 1 GB network egress from North America per month
+    * [Google Kubernetes Engine](https://cloud.google.com/kubernetes-engine) - No cluster management fee for one zonal cluster. Each user node is charged at standard Compute Engine pricing
+    * [BigQuery](https://cloud.google.com/bigquery) - 1 TB of querying per month, 10 GB of storage each month
+    * [Cloud Build](https://cloud.google.com/build) - 120 build-minutes per day
     * [Google Colab](https://colab.research.google.com/) - Free Jupyter Notebooks development environment.
     * [Kaggle](https://www.kaggle.com/) - Jupyter Notebooks with 4 CPU cores and 30 GB RAM computational environment without any weekly usage limits. With Phone number verification, 1 Nvidia Tesla P100 GPU or 2x Nvidia Tesla T4 GPU can be added with a usage limit of 30 GPU hours/week for free. With Identity verification - 1 TPU v3-8 with 96 CPU cores and 330 GB RAM is available with a usage limit of 20 hours/week for free. Check [Technical Specifications](https://www.kaggle.com/docs/notebooks#technical-specifications) for more details.
     * [ChromeRemoteDesktop](https://remotedesktop.google.com/) - Free remote desktop app with practically no limit on the number of devices, owned by Google, so needs a Google account.
@@ -1285,7 +1285,7 @@ Update Time, five active automations, webhooks.
 
   * [8base.com](https://www.8base.com/) - 8base is a full-stack low-code development platform built for JavaScript developers built on top of MySQL and GraphQL and serverless backend-as-a-service. It allows you to start building web applications quickly using a UI app builder and scale quickly, The Free tier includes rows: 2,500, Storage: 500, Serverless computing: 1Gb/h, and client app users: 5.
   * [airtable.com](https://airtable.com/) - Looks like a spreadsheet, but it's a relational database unlimited bases, 1,200 rows/base, and 1,000 API requests/month
-  * [Aiven](https://aiven.io/) - Aiven offers free PostgreSQL, MySQL and Valkey (Redis compatible) plans on its open-source data platform. Single node, 1 CPU, 1GB RAM, and for PostgreSQL and MySQL, 1GB storage. Easy migration to more extensive plans or across clouds.
+  * [Aiven](https://aiven.io/) - Aiven offers free PostgreSQL and Valkey (Redis compatible) plans on its open-source data platform. Single node, 1 CPU, 1GB RAM, and 1GB storage. Easy migration to more extensive plans or across clouds.
   * [BackupDrill](https://backupdrill.com) - Backs up Supabase projects to your own S3/R2/B2 bucket, then runs scheduled restore drills to prove backups restore. Provides a free plan with weekly backups for one project and one restore drill on your first backup.
   * [CockroachDB Cloud](https://www.cockroachlabs.com/pricing/) - Free tier offers 50 million RUs and 10 GiB of storage (same as 15$ worth) free per month. ([What's the Request Units](https://docs.cockroachlabs.com/docs/cockroachcloud/metrics-request-units))
   * [codehooks.io](https://codehooks.io/) - Easy to use JavaScript serverless API/backend and NoSQL database service with functions, Mongdb-ish queries, key/value lookups, a job system, realtime messages, worker queues, a powerful CLI and a web-based data manager. Free plan has 5GB storage and 60/API calls per minute. 2 developers included. No credit-card required.
@@ -1420,7 +1420,6 @@ Update Time, five active automations, webhooks.
   * [getpantry.cloud](https://getpantry.cloud/) - A simple JSON data storage API perfect for personal projects, hackathons, and mobile apps!
   * [GoFile.io](https://gofile.io/) - Free file sharing and storage platform can be used via web-based UI & also API. unlimited file size, bandwidth, download count, etc. But it will be deleted when a file becomes inactive (no download for more than ten days).
   * [gumlet.com](https://www.gumlet.com/) - Image and video hosting, processing and streaming via CDN. Provides generous free tier of 250 GB / month for videos and 30 GB  / month for images.
-  * [hyperserve.io](https://hyperserve.io/) - Video backend API for developers: accept any format your users upload, transcode to MP4, and deliver globally via CDN. The free tier includes 10 videos, 200 MB per file, and 50 GB bandwidth per month.
   * [icedrive.net](https://www.icedrive.net/) - Simple cloud storage service. 10 GB free storage
   * [image-charts.com](https://www.image-charts.com/) - Unlimited image chart generation with a watermark
   * [ImageEngine](https://imageengine.io/) - ImageEngine is an easy to use global image CDN. Sub 60 sec setup. AVIF and JPEGXL support, WordPress-, Magento-, React-, Vue- plugins and more. Claim your free developer account [here](https://imageengine.io/developer-program/).
