@@ -353,6 +353,7 @@ This list results from Pull Requests, reviews, ideas, and work done by 1600+ peo
   * [timezone.io](https://www.timezone.io/docs/worldtimeapi) - Current time, UTC offset and DST for any time zone or IP address, compatible with the shut-down WorldTimeAPI (clients only change the host). Free with no API key or sign-up, 60 requests/minute per IP, over HTTPS or plain HTTP.
   * [TinyMCE](https://www.tiny.cloud) - rich text editing API. Core features are free for unlimited usage.
   * [Tomorrow.io Weather API](https://www.tomorrow.io/weather-api/) - Offers free plan of weather API. Provides accurate and up-to-date weather forecasting with global coverage, historical data and weather monitoring solutions.
+  * [TradingCalendars](https://tradingcalendars.com) - Offers a free plan for Market Holidays API (10 API calls a day, no card). FX, bank, payment-system, and exchange calendars for fintech and market infrastructure — plus live open, half-day, or closed status for every exchange, through one API.
   * [Treblle](https://www.treblle.com) - Treblle helps teams build, ship, and govern APIs. With advanced API log aggregation, observability, docs, and debugging. You get all features for free, but there is a limit of up to 250k requests per month on the free tier.
   * [Trophy](https://trophy.so) - Trophy is the gamification layer for consumer apps. Use pre-built APIs and open-source UI components to ship achievements, streaks, points, leaderboards and more. Free for up to 1,000 monthly active users.
   * [UniRateAPI](https://unirateapi.com) - Real-time exchange rates for 590+ currencies and crypto. Unlimited API calls on the free plan, perfect for developers and finance apps.
@@ -1262,6 +1263,7 @@ Update Time, five active automations, webhooks.
   * [nextdns.io](https://nextdns.io) - DNS-based firewall, 300K free queries monthly
   * [noip.at](https://noip.at/) - Free DDNS service without registration, tracking, logging or advertising. No limit to domains.
   * [noip](https://www.noip.com/) - a dynamic DNS service that allows up to 3 hostnames free with confirmation every 30 days
+  * [Nomadns](https://nomadns.net) - Free and open-source DDNS service. 3 subdomains per account, up to 10 device hostnames per subdomain, IPv4/IPv6, HTTPS updates, DNSSEC and ACME DNS-01.
   * [nip.io](https://nip.io/) - Free DNS service that when queried with a hostname with an embedded IP address returns that IP address.
   * [zilore.com](https://zilore.com/en/dns) - Free DNS hosting for 5 domains.
   * [zoneedit.com](https://www.zoneedit.com/free-dns/) - Free DNS hosting with Dynamic DNS Support.
@@ -1783,6 +1785,7 @@ Update Time, five active automations, webhooks.
   * [RemSupp](https://remsupp.com) - On-demand support and permanent access to devices (2 sessions/day for free)
   * [RustDesk](https://rustdesk.com/) - Open source virtual/remote desktop infrastructure for everyone!
   * [StarDesk](https://www.stardesk.net) - Free remote desktop for work and gaming with 4K HDR/144fps streaming across Windows, macOS, iOS, and Android.
+  * [DeviceView](https://deviceview.ai) - Unattended remote view and control for Android, iOS, Windows, macOS and Linux (including Wayland) devices over peer-to-peer WebRTC, right from the browser, plus automations for self-healing fleets. Free for up to 5 devices.
 
 **[⬆️ Back to Top](#table-of-contents)**
 
